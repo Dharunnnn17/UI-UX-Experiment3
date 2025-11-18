@@ -1,20 +1,34 @@
 # UI-UX-Experiment3
 ## DHARUN ARULSELVAN
+## REG NO 212224220024
 ## Aim:
-To Heuristic Evaluation of an Existing Website or App
+To evaluate and compare the UX of 2–3 competing apps/websites using Nielsen’s heuristics, identify usability issues, and suggest improvements to enhance user experience.
 
 ## Algorithm:
-```
-1.Select and Compare 2–3 Competitor Apps/Websites
-2.Perform Heuristic Evaluation
-3.Analyze and Document Findings
-4.Propose and Apply Improvements.
-```
+Select 2–3 similar apps/websites (e.g., Khan Academy, Duolingo, Quizlet).
+
+Use Nielsen’s 10 heuristics as evaluation criteria.
+
+Inspect each app, note issues and strengths.
+
+Compare findings across apps.
+
+Suggest design changes to improve usability.
+
+Document results, upload to GitHub, and prepare lab report PDF.
 
 ## Output:
+-> Apps to Compare:
 
-[UX Evaluation  A_B Testing Report 3.pdf](https://github.com/user-attachments/files/20540680/UX.Evaluation.A_B.Testing.Report.3.pdf)
+*Duolingo (Languages)
+
+*Khan Academy (Academics)
+
+*Quizlet (Flashcards)
+
+<img width="1480" height="777" alt="image" src="https://github.com/user-attachments/assets/b91d30fa-d2b6-4639-8e8d-21314c8503e4" />
+<img width="1462" height="356" alt="image" src="https://github.com/user-attachments/assets/1f31cd17-d2e3-43ee-9eaf-9b2c8eb5c474" />
 
 
 ## Result:
-The Heuristic Evaluation of an Existing Website or App is created and verified.
+[Heuristic Evaluation UI UX.pdf](https://github.com/user-attachments/files/22593409/Heuristic.Evaluation.UI.UX.pdf)
